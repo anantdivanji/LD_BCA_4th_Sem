@@ -1,0 +1,22 @@
+1. Revise
+	a. DataFrame
+	b. Column and Row of DataFrame(Series)
+	c. shape
+	d. info
+	e. describe
+	f. Filtering(loc, iloc)
+	g. Boolean Indexing
+	h. value_counts
+	i. replace 
+
+2. Sorting
+3. Groupby & group by with agg
+4. Apply function
+5. Arithematic functions (max, min, sum, argmax, argmin)
+6. astype function to convert dtype of a column
+7. select dtypes function
+8. drop()
+9. Create a new column in the data
+10. duplicated, drop_duplicates
+11. get_dummies()
+12. Univariate analysis
